@@ -1,0 +1,1 @@
+Takes a .jpg image, makes a copy of and renames it, then applies Instagram-style filters to it.
